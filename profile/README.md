@@ -10,11 +10,11 @@
 - **University**: Politecnico di Torino
 
 ## Members
-- Andrea Botticella - [GitHub](https://github.com/botti001), [LinkedIn]()
-- Fabrizio Emanuel - [GitHub](https://github.com/briss01), [LinkedIn]()
-- Elia Innocenti - [GitHub](https://github.com/eliainnocenti), [LinkedIn](https://www.linkedin.com/in/eliainnocenti/)
-- Renato Mignone - [GitHub](https://github.com/RenatoMignone), [LinkedIn]()
-- Simone Romano - [GitHub](https://github.com/sroman0), [LinkedIn]()
+- Andrea Botticella - [GitHub](https://github.com/botti001) [LinkedIn]()
+- Fabrizio Emanuel - [GitHub](https://github.com/briss01) [LinkedIn]()
+- Elia Innocenti - [GitHub](https://github.com/eliainnocenti) [LinkedIn](https://www.linkedin.com/in/eliainnocenti/)
+- Renato Mignone - [GitHub](https://github.com/RenatoMignone) [LinkedIn]()
+- Simone Romano - [GitHub](https://github.com/sroman0) [LinkedIn]()
 
 ## Repositories
 1. **CAOS-project** - [Brief description of what this repo contains or its purpose]
