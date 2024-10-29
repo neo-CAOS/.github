@@ -17,7 +17,8 @@
 - Simone Romano - [GitHub](https://github.com/sroman0) [LinkedIn]()
 
 ## Repositories
-1. **CAOS-project** - [Brief description of what this repo contains or its purpose]
+1. **Teaching-material** - Contains all the materials and exercises for the Computer Architectures and Operating Systems course.
+2. **CAOS-project** - [Brief description of what this repo contains or its purpose]
 <!--2. **[Repository Name 2]** - [Brief description of what this repo contains or its purpose]-->
 <!--3. **[Repository Name 3]** - [Brief description of what this repo contains or its purpose]-->
 <!--*(Add or remove repositories as needed)*-->
