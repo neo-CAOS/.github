@@ -1,5 +1,7 @@
 # Welcome to the **neo-CAOS** GitHub Page
 
+![polito](resources/logo_polito.jpg)
+
 ## About Us
 **neo-CAOS** is a collaborative group of students working on projects related to the **Computer Architectures and Operating Systems** course. 
 <!-- Our organization focuses on practical applications and research in **[field/topic]**, driven by our passion for learning and innovation. -->
