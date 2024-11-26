@@ -39,7 +39,7 @@ For any questions or inquiries, feel free to reach out to us individually:
 - **Fabrizio Emanuel**: [fabrizio.emanuel@studenti.polito.it](mailto:fabrizio.emanuel@studenti.polito.it)
 - **Elia Innocenti**: [elia.innocenti@studenti.polito.it](mailto:elia.innocenti@studenti.polito.it)
 - **Renato Mignone**: [renato.mignone@studenti.polito.it](mailto:renato.mignone@studenti.polito.it)
-- **Simone Romano**: [simone.romano@studenti.polito.it](mailto:simone.romano@studenti.polito.it)
+- **Simone Romano**: [simone.romano2@studenti.polito.it](mailto:simone.romano2@studenti.polito.it)
 
 For more information, visit our course page:  
 - **Website**: [Computer Architectures and Operating Systems (CAOS) 2024/2025](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01GYKUV&p_a_acc=2025&p_header=S&p_lang=IT&multi=N)
