@@ -22,10 +22,9 @@
 | Simone Romano     | [![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?logo=github)](https://github.com/sroman0)   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/simone-romano-383277307/) |
 
 ## Repositories
-1. **Teaching-material** - Contains all the materials and exercises for the Computer Architectures and Operating Systems course.
-2. **CAOS-project** - [Brief description of what this repo contains or its purpose]
-<!--2. **[Repository Name 2]** - [Brief description of what this repo contains or its purpose]-->
-<!--3. **[Repository Name 3]** - [Brief description of what this repo contains or its purpose]-->
+1. **CAOS-project** - [Brief description of what this repo contains or its purpose]
+2. **latex-beamer** - Repository containing the LaTeX files and resources for documenting the project.
+3. **Teaching-material** - Contains all the materials and exercises for the Computer Architectures and Operating Systems course.
 <!--*(Add or remove repositories as needed)*-->
 
 ## How to Contribute
