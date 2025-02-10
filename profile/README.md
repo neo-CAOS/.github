@@ -24,8 +24,8 @@
 ## Repositories
 1. [**Secure-Timeout-System-NXPS32K3X8EVB**](https://github.com/neo-CAOS/group2) - Main repository for the course project.
 2. [**latex-beamer**](https://github.com/neo-CAOS/latex-beamer) - Repository containing the LaTeX files and resources for documenting the project.
-3. [**Teaching-material**](https://github.com/neo-CAOS/Teaching-material) - Contains all the materials and exercises for the Computer Architectures and Operating Systems course.
-<!--*(Add or remove repositories as needed)*-->
+<!-- 3. [**Teaching-material**](https://github.com/neo-CAOS/Teaching-material) - Contains all the materials and exercises for the Computer Architectures and Operating Systems course. -->
+<!-- *(Add or remove repositories as needed) *-->
 
 ## How to Contribute
 If you are a member of **neo-CAOS**, feel free to contribute by cloning the repositories, creating new branches for your work, and submitting pull requests for review. All contributions are welcome and reviewed by the team members to ensure the quality and consistency of our projects.
